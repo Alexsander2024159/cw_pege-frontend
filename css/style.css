@@ -1,0 +1,95 @@
+
+body {
+    /* background-color: #d2e1e6ad; */
+    font-family: Verdana, sans-serif;
+}
+
+
+.header {
+    text-align: center;
+}
+
+.avatar {
+    width: 250px;
+    height: 250px;
+    
+}
+
+/* .avatar {
+} */
+.header--title {
+    font-size: 30px;
+}
+.header-subtitle {
+    color: #44b0db;
+}
+
+main {
+    border: 1px solid #a9bdc5;
+    text-align: center;
+
+}
+
+.skills ol{
+    list-style: none;
+}
+
+.seporator {
+    width: 40%;
+    height: 3px;
+    background-color: #2d53d3;
+    margin-top: 30px;
+}
+
+.video iframe {
+    width: 800px;
+    height: 420px;
+    margin: 20px auto;
+    border: none;
+}
+
+.ed__teble {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ed__teble th,
+.ed__teble td {
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+.quote {
+    font-size: 32px;
+}
+
+.form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form__control {
+    width: 100%;
+}
+
+.control-text {
+    width: 70%;
+}
+
+.form_submit {
+    display: block;
+    margin: 0 auto;
+}
+
+footer{
+    width: 100px;
+    text-align: center;
+    background-color: #c2bdbd;
+    /* margin: 0 auto; */
+    
+}
+
+.contact_link {
+    text-decoration: none;
+    color: #000;
+}
